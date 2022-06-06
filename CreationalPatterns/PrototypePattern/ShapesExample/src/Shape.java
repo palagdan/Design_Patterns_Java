@@ -1,4 +1,4 @@
 interface  Shape {
-    public  Shape clone();
+    public Shape clone();
 
 }
