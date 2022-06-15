@@ -16,14 +16,14 @@ In software engineering, behavioral design patterns are design patterns that ide
 
 # Roadmap
 
-1. **Creational Patterns**
+1. [x] **Creational Patterns**
     * [x] Factory method
     * [x] Abstract factory
     * [x] Builder
     * [x] Prototype
     * [x] Singleton
      
-2. **Structural Patterns**
+2. [ ] **Structural Patterns**
    * [ ] Adapter
    * [ ] Bridge
    * [ ] Composite
@@ -32,7 +32,7 @@ In software engineering, behavioral design patterns are design patterns that ide
    * [ ] Flyweight
    * [ ] Proxy
    
-3. **Behaviour Patterns**
+3. [ ] **Behaviour Patterns**
    * [ ] Chain of responsibility
    * [ ] Command
    * [ ] Iterator
